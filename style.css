@@ -51,7 +51,7 @@ body::before {
 .container__informacoes {
     flex: 1;
     padding: 3rem;
-}
+} 
 
 .container__botao {
     border-radius: 16px;
